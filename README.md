@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Haileigh @grogu4mando4eva
+- 👋 Hi, I’m Haileigh @haileighpatterson
 - 👀 I’m interested in kauri trees
 - 🌱 I’m currently learning how to use R and RStudio
 - 📫 Doing BSc(Hons) at Auckland Uni
