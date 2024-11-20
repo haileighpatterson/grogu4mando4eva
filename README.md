@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haileigh @haileighpatterson
-- 👀 I’m interested in kauri trees
-- 🌱 I’m currently learning how to use R and RStudio
-- 📫 Doing BSc(Hons) at Auckland Uni
+- 📫 Research Associate and Plant and Food Research
+- 🌱 Interested in tree crops, colour and health
+
 
 <!---
 grogu4mando4eva/grogu4mando4eva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
